@@ -1,0 +1,1 @@
+# turkce-anlamsal-soru-cevap
