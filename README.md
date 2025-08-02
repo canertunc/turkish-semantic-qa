@@ -1,6 +1,7 @@
 # 🇹🇷 Türkçe PDF Soru-Cevap Sistemi
 
 AI destekli semantik arama ile Türkçe PDF belgelerinizden otomatik soru-cevap yapın.
+Bu sistem, modern Retrieval-Augmented Generation (RAG) mimarisi kullanarak, PDF belgelerden bilgi çekimi ve LLM tabanlı cevap üretimi yapar.
 
 **Not:** Türkçe PDF Soru-Cevap sistemi için geliştirme sürecinde yapılan deneyler, model karşılaştırmaları ve performans analizlerine [development/README_development.md](development/README_development.md) dosyasından ulaşabilirsiniz.
 
@@ -234,4 +235,5 @@ MAX_NEW_TOKENS_FINAL = 150 # Maksimum cevap uzunluğu
 - **RAM**: 16 GB
 - **GPU**: NVIDIA RTX 3060 veya üzeri
 - **Disk**: SSD, 20 GB boş alan
+
 
