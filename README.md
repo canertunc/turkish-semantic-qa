@@ -2,6 +2,8 @@
 
 AI destekli semantik arama ile Türkçe PDF belgelerinizden otomatik soru-cevap yapın.
 
+**Not:** Türkçe PDF Soru-Cevap sistemi için geliştirme sürecinde yapılan deneyler, model karşılaştırmaları ve performans analizlerine [development/README_development.md](development/README_development.md) dosyasından ulaşabilirsiniz.
+
 ## ✨ Özellikler
 
 - **Türkçe LLM**: `ytu-ce-cosmos/Turkish-Gemma-9b-v0.1` modeli
@@ -232,3 +234,4 @@ MAX_NEW_TOKENS_FINAL = 150 # Maksimum cevap uzunluğu
 - **RAM**: 16 GB
 - **GPU**: NVIDIA RTX 3060 veya üzeri
 - **Disk**: SSD, 20 GB boş alan
+
